@@ -21,21 +21,22 @@ The project performs the following steps:
 
 1. Finding the top 10 highest revenue-generating products.
 
-![top_10_higest_revenue](https://github.com/raman2-dev/Order-Data-Analysis/assets/80435227/3997f702-ec57-44c3-9b8a-1fa4bec39274)
+![top_10_higest_revenue](https://github.com/raman2-dev/Order-Data-Analysis/assets/80435227/7369fb71-b5da-4376-84d8-723fdd943117)
 
 2. Finding the top 5 selling products in each region.
    
-![top_5_highest_selling](https://github.com/raman2-dev/Order-Data-Analysis/assets/80435227/c1ed9957-020f-4649-886d-cfe799e252a8)
+![top_5_highest_selling](https://github.com/raman2-dev/Order-Data-Analysis/assets/80435227/464fb88b-f026-4e14-8191-a014e92ae13b)
 
 3. Query for finding each category that had the highest month of sales.
 
-![highest_sales_by_category](https://github.com/raman2-dev/Order-Data-Analysis/assets/80435227/104c1b16-389d-4a96-8db8-51e6f15dfc8e)
+![highest_sales_by_category](https://github.com/raman2-dev/Order-Data-Analysis/assets/80435227/b8de9ec8-651f-4408-93d2-343e94fa991e)
 
 4. Finding month-over-month growth comparison for 2022 and 2023 sales.
    
-![month_over_month_growth_comparison](https://github.com/raman2-dev/Order-Data-Analysis/assets/80435227/3177230e-a492-469d-9f79-2a8008f89f40)
+![month_over_month_growth_comparison](https://github.com/raman2-dev/Order-Data-Analysis/assets/80435227/feb4d7d8-8e4d-42cd-9d8b-d7fe907e1d02)
 
 5. Which subcategories had the highest growth by profit in 2023 compared to 2022?
 
-![sub_category_had_highest_growth](https://github.com/raman2-dev/Order-Data-Analysis/assets/80435227/6607b417-8f33-4bfc-8437-fb0621abb85b)
+![sub_category_had_highest_growth](https://github.com/raman2-dev/Order-Data-Analysis/assets/80435227/0f3b9355-9c43-4c57-88e3-74c8e6c2aa4f)
+
 
