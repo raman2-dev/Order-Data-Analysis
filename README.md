@@ -13,10 +13,6 @@ The project performs the following steps:
 
 - [@ramanram](https://github.com/raman2-dev)
 
-## Documentation
-
-[Documentation](https://linktodocumentation)
-
 ## SQL Queries 
 
 1. Finding the top 10 highest revenue-generating products.
